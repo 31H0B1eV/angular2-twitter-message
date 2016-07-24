@@ -13,6 +13,9 @@ import { Component, Input } from "angular2/core";
   `,
   styles: [`
     .fa-heart {
+      color: #ccc;
+    }
+    .active {
       color: tomato;
     }
   `]
