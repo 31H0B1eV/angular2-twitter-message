@@ -22,6 +22,7 @@ import { LikesComponent } from "../likes/likes.component";
   styles: [`
     .wrapper {
       margin-top: 25px;
+      max-width: 800px;
     }
     .item-text {
       margin-top: -20px;
